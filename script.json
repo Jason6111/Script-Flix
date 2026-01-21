@@ -1,0 +1,33 @@
+{
+  "name" : "在线影视平台",
+  "iconImage" : null,
+  "localizedDescriptions" : {
+    "zh" : "在线影视平台",
+    "en" : "Online video platform"
+  },
+  "color" : "#e50914",
+  "description" : "在线影视平台",
+  "localizedNames" : {
+    "zh" : "在线影视平台",
+    "en" : "Script Flix"
+  },
+  "icon" : "film",
+  "runInApp" : false,
+  "intentInputTypes" : [
+
+  ],
+  "version" : "1.0.5",
+  "author" : {
+    "name" : "jason",
+    "email" : "jason",
+    "homepage" : "https:\/\/github.com\/Jason6111"
+  },
+  "remoteResource" : {
+    "url" : "https:\/\/github.com\/Jason6111\/Scripting-Scripts\/raw\/refs\/heads\/main\/releases\/ScriptFlix.scripting",
+    "hash" : "ee794bf161ab9accf6a743fd736c2247d7a4989ea6667a3fe2897ee01ea0ee6f",
+    "autoUpdateInterval" : 600
+  },
+  "contributors" : [
+
+  ]
+}
